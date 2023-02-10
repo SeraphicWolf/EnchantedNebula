@@ -11,7 +11,7 @@ Curseforge- https://www.curseforge.com/terraria/mods/enchanted-nebula
 Kofi- https://ko-fi.com/seraphicwolf
 
 
-![image](https://user-images.githubusercontent.com/29392808/120938704-3344fd80-c6e2-11eb-81af-9e291aa719ec.png)
+![image](https://www.bisecthosting.com/images/CF/Enchanted_Nebula/BH_EN_Header.png)
 
 - **Introduction**
 - Welcome to Enchanted Nebula, This mod is a simple/basic mod. Nothing drastic has been added or removed.

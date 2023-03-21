@@ -4,6 +4,8 @@ I have been busy with other things which resaulted me in taking a break from alo
 
 Currently The Project has been uploaded Here on Github and also to Curseforge.
 
+![image](https://cf.way2muchnoise.eu/full_453661_downloads.svg)
+
 Links:
 
 Curseforge- https://www.curseforge.com/terraria/mods/enchanted-nebula
